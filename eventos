@@ -1,0 +1,23 @@
+Página principal: 
+* se incluye el propósito de la página, un carrusel de imágenes y un
+    resumen de los principales contenidos
+* Formulario, debe considerar al menos los siguientes campos:
+* Nombre
+* Email
+* RUT (Debe ser validado a través de módulo 11)
+* Contraseña (validar dos textos que deben coincidir)
+* Comentarios (text-area)
+
+
+* Páginas de contenidos, estás páginas deben cargar el contenido usando una API
+Deportes: 
+Página que debe mostrar en una tabla la lista de deportes que se
+encuentran en la siguiente página
+https://www.thesportsdb.com/api/v1/json/1/all_sports.php
+
+Ligas de España: 
+Debe presentar en una tabla todas las ligas de España
+https://www.thesportsdb.com/api/v1/json/1/all_leagues.php
+§ Antes de presentar la tabla con la información de las ligas deportivas debe
+escribir un breve texto descriptivo del contenido e incluir una imagen
+referencial. 
